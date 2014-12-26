@@ -1,0 +1,9 @@
+Building twenty15
+
+See doc/readme-qt.rst for instructions on building twenty15 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of twenty15.
+
+See doc/build-*.txt for instructions on building twenty15d,
+the intended-for-services, no-graphical-interface, reference
+implementation of twenty15.
